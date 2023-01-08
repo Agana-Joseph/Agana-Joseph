@@ -29,13 +29,13 @@
 <h1>Tech Stats📉</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Agana-Joseph&show_icons=true&locale=en&layout=compact" alt="Agana-Joseph" /></p><br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ogadavid&show_icons=true&locale=en" alt="ogadavid" /></p><br/>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Agana-Joseph&show_icons=true&locale=en" alt="Agana-Joseph" /></p><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogadavid&" alt="ogadavid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Agana-Joseph&" alt="Agana-Joseph" /></p>
 <br/>
 
 # ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ogadavid&label=Profile%20views&color=0e75b6&style=flat" alt="ogadavid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Agana-Joseph&label=Profile%20views&color=0e75b6&style=flat" alt="Agana-Joseph" /> </p>
