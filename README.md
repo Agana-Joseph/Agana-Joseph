@@ -7,11 +7,11 @@
 
 # 🚀 About me
 
-- 🔭 I’m currently working on a web3.0 - project **Teranite**.
+- 🔭 I’m currently working on a web3.0 - project **Hdrionite**.
 
 - 🌱 I’m currently learning **React, Python**.
 
-- 📝 I regularly write articles on [https://hashnode.com/@demicoder](https://hashnode.com/@demicoder)
+- 📝 I regularly write articles on [https://josephonahi.hashnode.dev/](https://josephonahi.hashnode.dev/)
 
 - ⚡ Fun fact about me - **I LOVE FOOTBALL AND I CRACKS JOKES A LOT 🤗 !**
 <br/>
