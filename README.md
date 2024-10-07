@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a web3.0 - project **Hdrionite**.
 
-- 🌱 I’m currently learning **Flutter, Dart, PHP, Laravel**.
+- 🌱 I’m currently learning **Cyber Security**.
 
 - 📝 I regularly write articles on [https://josephonahi.hashnode.dev/](https://josephonahi.hashnode.dev/)
 
