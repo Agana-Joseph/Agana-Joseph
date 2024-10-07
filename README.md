@@ -2,7 +2,7 @@
 
 <br/>
 
-<h1 align="center">Hi 👋, I'm Joseph</h1>
+<h1 align="center">Hi 👋, I'm JJ Onahi</h1>
 <h3 align="center">A Topnotch Frontend developer and Software Engineer.</h3>
 
 # 🚀 About me
